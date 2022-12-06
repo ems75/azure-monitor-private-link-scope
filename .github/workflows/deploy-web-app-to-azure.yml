@@ -7,7 +7,7 @@ on:
       name:
         description: 'Name of the user that manually starts the workflow'
         required: true
-        default: 'Paolo Salvatori'
+        default: 'Eduardo dos Santos'
   push:
     paths:
     - 'src/**'
